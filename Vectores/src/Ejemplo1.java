@@ -17,6 +17,7 @@ public class Ejemplo1 {
 		System.out.println("z[0]= "+z[0]);
 		if(v.equals(z)) System.out.println("z Igual a v");
 		if(v.equals(w)) System.out.println("w Igual a v");
+		//Hola Aitor esto esta editado por Niko
 	}
 
 }
